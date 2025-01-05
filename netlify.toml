@@ -1,0 +1,4 @@
+[build]
+  base = "/"
+  publish = "www"  # Ou "dist", dependendo do seu projeto
+  command = "ionic build --prod"
